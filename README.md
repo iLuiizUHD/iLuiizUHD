@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Luiz, I could consider myself as a Python software developer, but for now, I'm just in JavaScript, with NodeJS and Vue.
+My name is Luiz, I would consider myself as a Python software developer, but for now, I'm just in JavaScript, with Node JS and Vue.
 
 <!--
 **iLuiizUHD/iLuiizUHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
