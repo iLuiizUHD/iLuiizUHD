@@ -5,4 +5,5 @@ My name is Luiz, I would consider myself as a Python software developer, but for
 - 🐦 Twitter: AestheticSauce_
 
 ### Some stats, just for you 😉
-![Luiz github stats](https://github-readme-stats.vercel.app/api?username=iLuiizUHD&show_icons=true&theme=dark) [![Luiz most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iLuiizUHD&layout=compact)](https://github.com/iLuiizUHD)
+![Luiz github stats](https://github-readme-stats.vercel.app/api?username=iLuiizUHD&show_icons=true&theme=dark)(https://github.com/iLuiizUHD)
+ [![Luiz most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iLuiizUHD&layout=compact)](https://github.com/iLuiizUHD)
