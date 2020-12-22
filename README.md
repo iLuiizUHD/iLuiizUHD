@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Luiz, I would consider myself as a Python software developer, but for now, I'm just in JavaScript, with Node JS and Vue.
+My name is Luiz, I would consider myself as a Python software developer, but for now, I'm just in JavaScript, with Node JS and Vue, now it's JavaScript with types, aka, TypeScript.
 
 - 📫 How to reach me: luizgomes749@gmail.com
 
