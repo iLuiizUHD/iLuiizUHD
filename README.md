@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Luiz, I would consider myself as a Python software developer, but for now, I'm just in JavaScript, with Node JS and Vue, now it's JavaScript with types, aka, TypeScript.
+My name is Luiz, I'm a Junior Web Developer
 
 - 📫 How to reach me:
   + E-Mail: luizgomes749@gmail.com | me@luizg.dev
