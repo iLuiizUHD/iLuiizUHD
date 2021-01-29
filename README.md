@@ -33,7 +33,9 @@ My name is Luiz, I would consider myself as a Python software developer, but for
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLuiizUHD&theme=dark&layout=compact" alt="What I like to code" />
   </a>
 </p>
+
 ### What I've been listening to
+
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=g2wxqw13twqq0mpu79pxu0z10&width=450px&count=10" alt="What I've been listening to" />          
 </p>
