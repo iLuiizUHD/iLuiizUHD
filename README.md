@@ -1,7 +1,9 @@
 ### Hi there 👋
 My name is Luiz, I would consider myself as a Python software developer, but for now, I'm just in JavaScript, with Node JS and Vue, now it's JavaScript with types, aka, TypeScript.
 
-- 📫 How to reach me: luizgomes749@gmail.com | me@luizg.dev
+- 📫 How to reach me:
+  + E-Mail: luizgomes749@gmail.com | me@luizg.dev
+  + Discord: Luiz#3439
 - 🔗 My website and blog: https://luizg.dev
 - 🎶 My Favourite music types:
   + EDM
@@ -25,5 +27,12 @@ My name is Luiz, I would consider myself as a Python software developer, but for
   + Scroll down just a little (It's pinned down there);
 
 ### Some stats, just for you 😉
-[![Luiz github stats](https://github-readme-stats.vercel.app/api?username=iLuiizUHD&show_icons=true&theme=dark)](https://github.com/iLuiizUHD)
- [![Luiz most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iLuiizUHD&theme=dark&layout=compact)](https://github.com/iLuiizUHD)
+<p align="center">
+  <a href="https://github.com/iLuiizUHD">
+    <img src="https://github-readme-stats.vercel.app/api?username=iLuiizUHD&show_icons=true&theme=dark" alt="What I do in my GitHub account" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLuiizUHD&theme=dark&layout=compact" alt="What I like to code" />
+  </a>
+  
+  <h3>What I've been listening to</h3>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=g2wxqw13twqq0mpu79pxu0z10&width=450px&count=10" alt="What I've been listening to" />          
+</p>
