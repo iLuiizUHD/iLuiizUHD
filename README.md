@@ -7,14 +7,7 @@ My name is Luiz, I would consider myself as a Python software developer, but for
 - 🔗 My website and blog: https://luizg.dev
 - 🎶 My Favourite music types:
   + EDM
-  + Rock
-  + Pop
-  + Progressive
-  + Trance
-  + Americana
-  + Blues
-  + Jazz
-  + Trap
+  + Tropical House
   + Dance
   + Deep House
   + House
@@ -37,6 +30,6 @@ My name is Luiz, I would consider myself as a Python software developer, but for
 ### What I've been listening to
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=g2wxqw13twqq0mpu79pxu0z10&width=750px&count=10" alt="What I've been listening to" />          
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=g2wxqw13twqq0mpu79pxu0z10&width=550px&count=10" alt="What I've been listening to" />          
 </p>
 
