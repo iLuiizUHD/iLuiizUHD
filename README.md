@@ -32,7 +32,7 @@ My name is Luiz, I'm a Junior Web Developer
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=g2wxqw13twqq0mpu79pxu0z10&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=g2wxqw13twqq0mpu79pxu0z10&cover_image=true&theme=compact" alt="Now playing" />
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=g2wxqw13twqq0mpu79pxu0z10&width=450px&count=7" alt="What I've been listening to" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=g2wxqw13twqq0mpu79pxu0z10&width=450px&count=6" alt="What I've been listening to" />
   </a>
 </p>
 
