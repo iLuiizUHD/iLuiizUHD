@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Luiz, I'm a Junior Web Developer
+My name is Luiz (spoken as Louis), I'm a Junior Web Developer
 
 - 📫 How to reach me:
   + E-Mail: luizgomes749@gmail.com | me@luizg.dev
